@@ -56,6 +56,13 @@ void main()
     //difference of two numbers.
     //difference of two numbers.
     //difference of two numbers.
+    adddiff(10, 8);// Gangadhar
+    adddiff(10, 8);// Gangadhar
+    adddiff(10, 8);// Gangadhar
+    adddiff(10, 8);// Gangadhar
+    adddiff(10, 8);// Gangadhar
+    adddiff(10, 8);// Gangadhar
+    adddiff(10, 8);// Gangadhar
     diff(10, 8);
     diff(10, 8);
     diff(10, 8);
