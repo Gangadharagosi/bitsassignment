@@ -8,5 +8,7 @@ void sub(int a, int b)
 // code for main
 void main()
 {
+    sub(11,12);
     diff(10, 8);
+    //difference of two numbers.
 }
