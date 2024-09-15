@@ -11,4 +11,19 @@ void main()
     sub(11,12);
     diff(10, 8);
     //difference of two numbers.
+    diff(10, 8); /// Gangadhara
+    diff(120, 58); /// Gangadhara
+    diff(120, 58); /// Gangadhara
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
+    diff(120, 58); /// GangadharGosia
 }
