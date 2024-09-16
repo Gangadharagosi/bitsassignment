@@ -18,6 +18,7 @@ void main()
     printf(" value of difference of two variables=%d\n", diff);
     printf(" value of difference of two variables=%d\n", diff);
     printf(" value of difference of two variables=%d\n", diff);
+    printf(" value of difference of two variables=%d\n", diff);
     //difference of two numbers.
     //difference of two numbers.
     //difference of two numbers.
